@@ -1,3 +1,1 @@
-A blank slate for a flask webapp!
-
-Made by Ekim Karabey, not that it's much work at this point
+Backend server for the free app, made for deltahacks 2019
